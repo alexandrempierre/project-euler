@@ -1,2 +1,6 @@
 # project-euler
-All my solutions - written in any programming language - to Project Euler problems will be here.
+All my solutions - using any means - to [Project Euler](https://projecteuler.net/) problems will be here.
+
+## Progress
+
+![3 problems solved out of 761](https://progress-bar.dev/3/?scale=761&title=solved&width=761&suffix=/761)
