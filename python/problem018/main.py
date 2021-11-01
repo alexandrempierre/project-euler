@@ -12,4 +12,4 @@ import traversetree as tt
 
 if __name__ == '__main__':
     TRIANGLE = rt.file2triangle(argv[1])
-    print(tt.maximum_path_topdown(TRIANGLE))
+    print(tt.maximum_pathsum(TRIANGLE))
